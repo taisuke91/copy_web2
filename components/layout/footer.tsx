@@ -24,7 +24,7 @@ export default function Footer() {
             <h4 className="text-sm font-semibold text-foreground tracking-wider uppercase">クイックリンク</h4>
             <ul className="mt-4 space-y-2">
               <li><Link href="/" className="text-sm text-muted-foreground hover:text-primary">ホーム</Link></li>
-              <li><Link href="/practice-areas" className="text-sm text-muted-foreground hover:text-primary">取扱分野</Link></li>
+              <li><Link href="/about" className="text-sm text-muted-foreground hover:text-primary">取扱分野</Link></li>
               <li><Link href="/contact" className="text-sm text-muted-foreground hover:text-primary">お問い合わせ</Link></li>
               <li><Link href="/policy" className="text-sm text-muted-foreground hover:text-primary">プライバシーポリシー</Link></li>
             </ul>

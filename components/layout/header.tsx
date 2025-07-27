@@ -7,7 +7,7 @@ import { Scale } from "lucide-react"
 
 const navLinks = [
   { href: "/", label: "ホーム" },
-  { href: "/practice-areas", label: "取扱分野" },
+  { href: "/about", label: "取扱分野" },
   { href: "/contact", label: "お問い合わせ" },
   { href: "/policy", label: "プライバシーポリシー" },
 ]
